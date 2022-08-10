@@ -13,6 +13,8 @@
 
 - 📝 블로그를 조금씩 운영하고있어요!! [https://blog.naver.com/kosy17](https://blog.naver.com/kosy17)
 
+- 📝 8월 부터 개인 노션 사이트를 개설했어요! 계속 꾸며나가고 있습니다 :-) [My Notion Link](https://www.notion.so/jeong-kim/JeongKim-s-Daily-Notion-7e2194bafeaa405883544ccbd4865805, "Notion Link")
+
 - 📫궁금하거나 연락이 필요하시면 메일로 보내주세요 :) **kosy17@naver.com OR kosy176@gmail.com**
 
 
