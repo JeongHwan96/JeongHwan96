@@ -1,3 +1,4 @@
+
 <h1 align="center"> 👋연습하는 프론트엔드 개발자 김정환 입니다.👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonghwan96&label=Profile%20views&color=0e75b6&style=flat" alt="jeonghwan96" /> </p>
 
@@ -27,7 +28,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeonghwan96" alt="jeonghwan96" /></a> </p>
 
 <h3 align="left">💻  GitHub Analytics </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeonghwan96&show_icons=true&locale=en&layout=compact" alt="jeonghwan96" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonghwan96&show_icons=true&locale=en" alt="jeonghwan96" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghwan96&show_icons=true&theme=radical)
+
 
 
