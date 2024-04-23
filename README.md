@@ -29,9 +29,8 @@
 
 <h3 align="left">💻  GitHub Analytics </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96&show_icons=true&theme=radical)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghwan96&show_icons=true&theme=radical)
-
 
 
