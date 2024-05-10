@@ -1,10 +1,11 @@
 
-<h1 align="center"> 👋연습하는 프론트엔드 개발자 김정환 입니다.👋</h1>
+<h1 align="center"> 👋Web 개발 경험을 겸비한 QA/QE Tester 김정환 입니다.👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonghwan96&label=Profile%20views&color=0e75b6&style=flat" alt="jeonghwan96" /> </p>
 
 <h3 align="left">
-  ✔️ 실력있는 프론트엔드 개발자가 되기위해 공부하고 노력합니다 <br>
-  ✔️ 아는건 알려주고 모르는건 물어보고 서로서로 소통하는 것을 선호합니다 <br>
+  ✔️ 사용자 입장에서 이슈를 잡으려고 노력합니다 <br>
+  ✔️ Web개발자로 재직 중에 얻었던 지식을 토대로 이슈를 잡으려고 노력합니다<br>
+  ✔️ Web개발자로 재직과 Web개발 공부 중 겪었던 경험들 위주로 AD-Hoc Testing을 선호 합니다 <br>
   ✔️ 서로서로 함께 성장하는 것을 지향합니다.<br>
 </h3>
 
