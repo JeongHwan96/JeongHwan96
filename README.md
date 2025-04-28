@@ -11,7 +11,7 @@
 
 
 
-- 👨‍💻 개인 포트폴리오 사이트를 제작 하고 있습니다!! [https://competent-cori-da7554.netlify.app/](https://jk-world.netlify.app/)
+- 👨‍💻 개인 포트폴리오 사이트를 제작 하고 있습니다!! https://jk-world.netlify.app/
 ](https://jk-world.netlify.app/)
 - 📝 블로그를 조금씩 운영하고있어요!! [https://blog.naver.com/kosy17](https://blog.naver.com/kosy17)
 
