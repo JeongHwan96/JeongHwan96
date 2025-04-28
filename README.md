@@ -11,7 +11,7 @@
 
 
 
-- 👨‍💻 개인 포트폴리오 사이트를 제작 하고 있습니다!! [https://competent-cori-da7554.netlify.app/](https://competent-cori-da7554.netlify.app/)
+- 👨‍💻 개인 포트폴리오 사이트를 제작 하고 있습니다!! [https://competent-cori-da7554.netlify.app/]([https://competent-cori-da7554.netlify.app/](https://jk-world.netlify.app/))
 
 - 📝 블로그를 조금씩 운영하고있어요!! [https://blog.naver.com/kosy17](https://blog.naver.com/kosy17)
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">💻  GitHub Analytics </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96)](https://github.com/jeonghwan96/github-readme-stats)
+
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
