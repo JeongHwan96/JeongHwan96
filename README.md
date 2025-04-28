@@ -29,7 +29,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeonghwan96" alt="jeonghwan96" /></a> </p>
 
 <h3 align="left">💻  GitHub Analytics </h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96)](https://github.com/jeonghwan96/github-readme-stats)
+
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghwan96&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghwan96&show_icons=true&theme=radical)
